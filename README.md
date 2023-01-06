@@ -1,2 +1,3 @@
-# games-site
- CSS Grid: simplificando layouts
+# Alura-Store
+
+ Projeto CSS Grid: simplificando layouts
